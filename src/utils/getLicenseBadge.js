@@ -17,3 +17,10 @@ const getLicenseBadge = (license) => {
 };
 
 module.exports = getLicenseBadge;
+
+const getIceCream = (iceCreamFlavour) => {
+  console.log(iceCreamFlavour);
+};
+
+const myIceCream = "pistachio";
+getIceCream(myIceCream);
