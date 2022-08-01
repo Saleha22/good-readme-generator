@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
-- [User Story] (#user-story)
+- [Demo Video](#demo-video)
+- [User Story](#user-story)
 
 ## Description:
 
@@ -19,6 +19,10 @@ To start the application run the below command:
 ```bash
 node index.js
 ```
+
+## Demo Video
+
+[click here to view demo video](https://drive.google.com/file/d/1ST4XlbQTGQvzPIhdalzWn58kEdSdDC7O/view?usp=sharing)
 
 ## User Story
 
